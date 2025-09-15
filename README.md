@@ -1,6 +1,6 @@
-## Hi there 👋
+## helloooo
 
-- I'm a bachelor's student who wants to learn more about coding :)
+- currently wanting to learn more coding :)
 <!--
 **a-nn-i/a-nn-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
